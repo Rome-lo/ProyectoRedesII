@@ -69,19 +69,6 @@ h1,h2,h3,h4,h5, button, .amiibo-name{
 .text-shadow{
     text-shadow: 0 3px 3px rgba(0,0,0,0.6);
 }
-#separator-amiibos{
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-    z-index: 2;
-}
-#separator-amiibos .content{
-    width: 110%;
-    height: 100px;
-    margin-left: -5%;
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%;
-}
 
 #separator-amiibos-footer{
     height: 20vw;
